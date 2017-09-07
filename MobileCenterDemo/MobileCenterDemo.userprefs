@@ -6,7 +6,5 @@
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.MobileCenterDemo.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.87D784C9-9871-4E11-8FB7-2D98E0335223">
-    <MonoDevelop.MacDev.AppleDevelopmentTeam />
-  </MonoDevelop.Ide.ItemProperties.MobileCenterDemo.iOS>
+  <MonoDevelop.Ide.ItemProperties.MobileCenterDemo.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.87D784C9-9871-4E11-8FB7-2D98E0335223" />
 </Properties>
