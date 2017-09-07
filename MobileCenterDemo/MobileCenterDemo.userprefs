@@ -1,5 +1,10 @@
 ﻿<Properties StartupConfiguration="{1DAADE82-A5CC-4C18-B594-B415C1D54CE0}|Default">
-  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MobileCenterDemoTest/Tests.cs">
+    <Files>
+      <File FileName="iOS/AppDelegate.cs" Line="13" Column="40" />
+      <File FileName="MobileCenterDemoTest/Tests.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />

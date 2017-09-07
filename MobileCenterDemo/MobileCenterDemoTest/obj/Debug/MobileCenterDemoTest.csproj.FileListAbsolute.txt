@@ -1,0 +1,10 @@
+/Users/vivianaranha/Documents/Projects/MCDemo/MobileCenterDemo/MobileCenterDemo/MobileCenterDemoTest/bin/Debug/MobileCenterDemoTest.dll
+/Users/vivianaranha/Documents/Projects/MCDemo/MobileCenterDemo/MobileCenterDemo/MobileCenterDemoTest/bin/Debug/MobileCenterDemoTest.pdb
+/Users/vivianaranha/Documents/Projects/MCDemo/MobileCenterDemo/MobileCenterDemo/MobileCenterDemoTest/bin/Debug/nunit.framework.dll
+/Users/vivianaranha/Documents/Projects/MCDemo/MobileCenterDemo/MobileCenterDemo/MobileCenterDemoTest/bin/Debug/Xamarin.UITest.dll
+/Users/vivianaranha/Documents/Projects/MCDemo/MobileCenterDemo/MobileCenterDemo/MobileCenterDemoTest/bin/Debug/nunit.framework.xml
+/Users/vivianaranha/Documents/Projects/MCDemo/MobileCenterDemo/MobileCenterDemo/MobileCenterDemoTest/bin/Debug/Xamarin.UITest.xml
+/Users/vivianaranha/Documents/Projects/MCDemo/MobileCenterDemo/MobileCenterDemo/MobileCenterDemoTest/obj/Debug/MobileCenterDemoTest.csprojResolveAssemblyReference.cache
+/Users/vivianaranha/Documents/Projects/MCDemo/MobileCenterDemo/MobileCenterDemo/MobileCenterDemoTest/obj/Debug/MobileCenterDemoTest.csproj.CoreCompileInputs.cache
+/Users/vivianaranha/Documents/Projects/MCDemo/MobileCenterDemo/MobileCenterDemo/MobileCenterDemoTest/obj/Debug/MobileCenterDemoTest.dll
+/Users/vivianaranha/Documents/Projects/MCDemo/MobileCenterDemo/MobileCenterDemo/MobileCenterDemoTest/obj/Debug/MobileCenterDemoTest.pdb

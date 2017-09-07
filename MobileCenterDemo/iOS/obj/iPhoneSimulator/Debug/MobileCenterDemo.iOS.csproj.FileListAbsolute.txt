@@ -74,3 +74,4 @@
 /Users/vivianaranha/Documents/Projects/MCDemo/MobileCenterDemo/MobileCenterDemo/iOS/obj/iPhoneSimulator/Debug/MobileCenterDemo.iOS.App.xaml.g.cs
 /Users/vivianaranha/Documents/Projects/MCDemo/MobileCenterDemo/MobileCenterDemo/iOS/obj/iPhoneSimulator/Debug/MobileCenterDemo.iOS.exe
 /Users/vivianaranha/Documents/Projects/MCDemo/MobileCenterDemo/MobileCenterDemo/iOS/obj/iPhoneSimulator/Debug/MobileCenterDemo.iOS.pdb
+/Users/vivianaranha/Documents/Projects/MCDemo/MobileCenterDemo/MobileCenterDemo/iOS/bin/iPhoneSimulator/Debug/Calabash.dll
