@@ -1,13 +1,18 @@
 ﻿<Properties StartupConfiguration="{1DAADE82-A5CC-4C18-B594-B415C1D54CE0}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="MobileCenterDemoTest/Tests.cs">
+  <MonoDevelop.Ide.ItemProperties.MobileCenterDemoTest PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MobileCenterDemoTest/AppInitializer.cs">
     <Files>
-      <File FileName="iOS/AppDelegate.cs" Line="13" Column="40" />
-      <File FileName="MobileCenterDemoTest/Tests.cs" Line="1" Column="1" />
+      <File FileName="iOS/AppDelegate.cs" Line="16" Column="1" />
+      <File FileName="MobileCenterDemoTest/Tests.cs" Line="34" Column="2" />
+      <File FileName="MobileCenterDemoTest/AppInitializer.cs" Line="31" Column="30" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
+    <BreakpointStore>
+      <Breakpoint file="/Users/vivianaranha/Documents/Projects/MCDemo/MobileCenterDemo/MobileCenterDemo/MobileCenterDemoTest/Tests.cs" relfile="MobileCenterDemoTest/Tests.cs" line="14" column="1" />
+      <Breakpoint file="/Users/vivianaranha/Documents/Projects/MCDemo/MobileCenterDemo/MobileCenterDemo/MobileCenterDemoTest/Tests.cs" relfile="MobileCenterDemoTest/Tests.cs" line="19" column="1" />
+    </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />

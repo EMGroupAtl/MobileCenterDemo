@@ -1,0 +1,7 @@
+/Users/vivianaranha/Documents/Projects/MCDemo/MobileCenterDemo/MobileCenterDemo/MobileCenterDemoTest/bin/Release/MobileCenterDemoTest.dll
+/Users/vivianaranha/Documents/Projects/MCDemo/MobileCenterDemo/MobileCenterDemo/MobileCenterDemoTest/bin/Release/nunit.framework.dll
+/Users/vivianaranha/Documents/Projects/MCDemo/MobileCenterDemo/MobileCenterDemo/MobileCenterDemoTest/bin/Release/Xamarin.UITest.dll
+/Users/vivianaranha/Documents/Projects/MCDemo/MobileCenterDemo/MobileCenterDemo/MobileCenterDemoTest/bin/Release/nunit.framework.xml
+/Users/vivianaranha/Documents/Projects/MCDemo/MobileCenterDemo/MobileCenterDemo/MobileCenterDemoTest/bin/Release/Xamarin.UITest.xml
+/Users/vivianaranha/Documents/Projects/MCDemo/MobileCenterDemo/MobileCenterDemo/MobileCenterDemoTest/obj/Release/MobileCenterDemoTest.csproj.CoreCompileInputs.cache
+/Users/vivianaranha/Documents/Projects/MCDemo/MobileCenterDemo/MobileCenterDemo/MobileCenterDemoTest/obj/Release/MobileCenterDemoTest.dll
